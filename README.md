@@ -1,4 +1,4 @@
-#العنوان: محاكاة الحركة الفيزيائية لقارب بمحرك عادي.
+# العنوان: محاكاة الحركة الفيزيائية لقارب بمحرك عادي.
 
 # توصيف المشروع: 
 
@@ -20,9 +20,9 @@
 12. إمكانية جعل المحاكاة كلعبة تعتمد على جمع كتل النفايات الملقاة في البحر، عند لمس القارب لكتلة نفايات تختفي من المشهد.
 
 
-#Title: Simulating the physical motion of a boat with a regular engine.
+# Title: Simulating the physical motion of a boat with a regular engine.
 
-#Project Description:
+# Project Description:
 
 The project represents a simulation of the motion of a boat with a regular engine programmed using the THREE JS library. The natural forces affecting the motion of the boat were programmed: the force of gravity, the Archimedes' thrust force, the engine thrust force, and the water resistance force.
 
